@@ -1,4 +1,4 @@
-<table style="background: #1a052b; order: 0;">
+<table style="background: black; order: 0;">
 <td style="width: 5%">
 <p style="align: center">
 
