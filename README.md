@@ -1,4 +1,4 @@
-[![KONSTANTIN SHMARIN](https://github.com/KonstantinShmarin/KonstantinShmarin/blob/master/assets/ks.png)](https://github.com/KonstantinShmarin)
+[![KONSTANTIN SHMARIN](https://raw.githubusercontent.com/KonstantinShmarin/KonstantinShmarin/main/assets/ks.png)](https://github.com/KonstantinShmarin)
 
 ### Hi there 👋
 #### My name is Konstantin.
