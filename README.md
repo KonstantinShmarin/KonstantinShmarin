@@ -1,20 +1,4 @@
-<table style="background: black; order: 0;">
-<td style="width: 5%">
-<p style="align: center">
-
-</p>
-</td>
-<td style="width: 100%">
-<center>
-Konstantin Shamrin
-</center>
-</td>
-<td style="width: 5%">
-<p style="align: center">
-
-</p>
-</td>
-</table>
+[(https://github.com/KonstantinShmarin/KonstantinShmarin/blob/master/assets/ks.png)](https://github.com/KonstantinShmarin)
 
 ### Hi there 👋
 #### My name is Konstantin.
