@@ -19,6 +19,16 @@ I learned a great deal in that role that served me well over the next 7 years.
 <p>
 - 🔭 Now circle of my interest: 🤓 programming,🚀 new technologies, 🤩 English.
 </p>
+<p>
+- I fond of WEB technologies 💪 and I study everything that is connected with it.
+</p>
+<p>
+- 💼 There are languages that I interest for WEB:
+</p>
+<p>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
+</p>
 
 #### 🚩My attitude to programming reflects the following principles:
 <p align="justify">
