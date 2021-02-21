@@ -1,10 +1,8 @@
 [![KONSTANTIN SHMARIN](https://raw.githubusercontent.com/KonstantinShmarin/KonstantinShmarin/main/assets/ks.png)](https://github.com/KonstantinShmarin)
 
 ``` 
-This repository is created exclusively for collecting code examples, 
-for parsing code, parsing bad and good code examples. 
-Here I also analyze test and training tasks. 
-You definitely won't find the perfect code here =)
+This repository is created exclusively for collecting code examples, for parsing code, parsing bad and good code examples. 
+Here I also analyze test and training tasks. You definitely won't find the perfect code here =)
 ```
 ### Hi there 👋
 #### My name is Konstantin.
