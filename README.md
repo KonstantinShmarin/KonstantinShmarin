@@ -1,5 +1,11 @@
 [![KONSTANTIN SHMARIN](https://raw.githubusercontent.com/KonstantinShmarin/KonstantinShmarin/main/assets/ks.png)](https://github.com/KonstantinShmarin)
 
+``` 
+This repository is created exclusively for collecting code examples, 
+for parsing code, parsing bad and good code examples. 
+Here I also analyze test and training tasks. 
+You definitely won't find the perfect code here =)
+```
 ### Hi there 👋
 #### My name is Konstantin.
 <p align="justify">
@@ -25,10 +31,13 @@ I learned a great deal in that role that served me well over the next 7 years.
 <p>
 - 💼 There are languages that I interest for WEB:
 </p>
-<p>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)]
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
-</p>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/-sharp-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6600CC)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=00648B)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=sql&logoColor=00648B)
+
 
 #### 🚩My attitude to programming reflects the following principles:
 <p align="justify">
@@ -76,6 +85,14 @@ We should always use a design pattern known as dependency inversion pattern, whi
 
 ###### P.S. Well, nobody is perfect.🤔 I definitely get impatient with a task which I work so long time,  and occasionally I forget about principles.🤫OR If a new project excite me I will forgot about principle YAGNI (You Ain’t Gonna Need It)😳.
 
+ #### Good English links 🌱
+
+- [ Speak English with Cristina](https://christinarebuffet.com/)
+- [ oomongzu.com](https://christinarebuffet.com/)
+- [ SkyEng the biggest European English school](https://skyeng.ru/invite/4d7a59354e5459334f513d3d)
+- [ Engvid.com](https://www.engvid.com/)
+- [ Tongue-Twisters](https://www.teachingenglish.org.uk/tongue-twisters)
+- [ Oxford Online English](https://www.youtube.com/channel/UCNbeSPp8RYKmHUliYBUDizg)
 
 
 <!--
