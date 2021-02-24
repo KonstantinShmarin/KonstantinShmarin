@@ -34,7 +34,7 @@ I learned a great deal in that role that served me well over the next 7 years.
 ![.Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C#](https://img.shields.io/badge/-sharp-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6600CC)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=00648B)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00648B)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00FF00)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=sql&logoColor=00648B)
 
 
